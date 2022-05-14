@@ -1,0 +1,22 @@
+{
+  "name": "Tasks",
+  "description": "Google Tasks lets you create a to-do list within your Google Chrome(as extension) or your Desktop Gmail or the Google Tasks mobile app. When you add a task, you can integrate it into your Gmail calendar, and add details or subtasks",
+  "version": "1",
+  "manifest_version": 3,
+
+  "action": {
+    "default_popup": "Pop_Up.html",
+    "default_icon": {
+      "16": "/img/icon-16x16.png",
+      "32": "/img/icon-32x32.png",
+      "48": "/img/icon-48x48.png",
+      "128": "/img/icon-128x128.png"
+    }
+  },
+  "icons": {
+    "16": "/img/icon-16x16.png",
+    "32": "/img/icon-32x32.png",
+    "48": "/img/icon-48x48.png",
+    "128": "/img/icon-128x128.png"
+  }
+}
